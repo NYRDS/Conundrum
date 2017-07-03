@@ -1,0 +1,29 @@
+﻿{
+"width":11,
+"height":10,
+"map":[ 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4,
+ 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4,
+ 4, 1, 4, 4, 4, 4, 4, 4, 4, 1, 4,
+ 4, 1, 4, 1, 1, 1, 1, 1, 4, 1, 4,
+ 4, 1, 4, 1, 4, 4, 4, 1, 4, 1, 4,
+ 4, 1, 4, 1, 4, 7, 4, 1, 4, 1, 4,
+ 4, 1, 4, 1, 4, 1, 1, 1, 4, 1, 4,
+ 4, 1, 4, 1, 4, 4, 4, 4, 4, 1, 4,
+ 4, 4, 4, 1, 1, 1, 1, 1, 1, 1, 4,
+ 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4
+],
+"tiles":"tiles1.png",
+"water":"water1.png",
+"entrance":[1,8],
+"exit":[5,5],
+"objects":[
+{"kind":"ConcreteBlock","x":3,"y":1,"str":18},
+{"kind":"ConcreteBlock","x":1,"y":6,"str":18},
+{"kind":"ConcreteBlock","x":9,"y":3,"str":18},
+{"kind":"ConcreteBlock","x":7,"y":8,"str":18},
+{"kind":"ConcreteBlock","x":3,"y":6,"str":18},
+{"kind":"ConcreteBlock","x":5,"y":3,"str":18},
+{"kind":"ConcreteBlock","x":7,"y":5,"str":18},
+{"kind":"Sign","x":1,"y":7,"text":"Dep1_Text5"}
+]
+}

@@ -1,0 +1,24 @@
+﻿{
+ "common": {
+  "armor": {
+   "kind": "LeatherArmor",
+   "identified": true,
+   "level": 3
+  }
+ },
+ "ROGUE": {
+  "weapon": {
+   "kind": "Dagger",
+   "identified": true,
+   "level": 3
+  },
+  "str": 18,
+  "hp": 20,
+  "knownItems": [{
+   "kind": "PotionOfHealing"
+  }, {
+   "kind": "PotionOfExperience"
+  }]
+}
+ }
+

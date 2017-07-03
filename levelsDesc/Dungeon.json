@@ -1,0 +1,35 @@
+﻿{
+   "Levels":{
+      "Hzzachemeto":{"kind":"SewerLevel", "depth":0,   "size":[0,0]},
+      "yog":{"kind":"PredesignedLevel", "depth":0,   "size":[0,0], "file":"levelsDesc/yog.json", "isSafe":true, "noFogOfWar":true},
+      "yendor":{"kind":"PredesignedLevel", "depth":0,   "size":[0,0], "file":"levelsDesc/yendor.json", "isSafe":true, "noFogOfWar":true},
+      "hole":{"kind":"PredesignedLevel", "depth":0,  "size":[0,0], "file":"levelsDesc/hole.json", "isSafe":true},
+       "hole2":{"kind":"PredesignedLevel", "depth":0,  "size":[0,0], "file":"levelsDesc/hole.json", "isSafe":true},
+      "reception":{"kind":"PredesignedLevel", "depth":0,  "size":[0,0], "file":"levelsDesc/reception.json", "isSafe":true, "noFogOfWar":true},
+      "1a":{"kind":"PredesignedLevel", "depth":1,   "size":[0,0], "file":"levelsDesc/1a.json", "isSafe":true, "noFogOfWar":true},
+      "1b":{"kind":"PredesignedLevel", "depth":1,   "size":[0,0], "file":"levelsDesc/1b.json", "isSafe":true},
+      "1c":{"kind":"PredesignedLevel", "depth":1,   "size":[0,0], "file":"levelsDesc/1c.json", "isSafe":true},
+      "1d":{"kind":"PredesignedLevel", "depth":1,   "size":[0,0], "file":"levelsDesc/1d.json", "isSafe":true},
+      "maze":{"kind":"PredesignedLevel", "depth":0,   "size":[0,0], "file":"levelsDesc/maze.json", "isSafe":true},
+      "sokoban":{"kind":"PredesignedLevel", "depth":0,   "size":[0,0], "file":"levelsDesc/sokoban.json", "isSafe":true},
+      "fort":{"kind":"PredesignedLevel", "depth":0,   "size":[0,0], "file":"levelsDesc/fort.json", "isSafe":true},
+      "heavens":{"kind":"PredesignedLevel", "depth":0,   "size":[0,0], "file":"levelsDesc/heavens.json", "isSafe":true}
+   },
+   "Graph":{
+      "Hzzachemeto":[["yog"],[]],
+      "hole2":[["hole2"],["hole2"]],
+      "yog":[["yendor"],[]],
+      "yendor":[["hole"],["yog"]],
+      "hole":[["reception"],["yendor"]],
+      "reception":[["sokoban","maze","heavens","fort"],["hole"]],
+      "maze":[["1b"],["reception"],[2]],
+      "sokoban":[["1a"],["reception"]],
+      "fort":[["1d"],["reception"],[4]],
+      "heavens":[["1c"],["reception"],[3]],
+      "1a":[["sokoban"],["sokoban"]],
+      "1b":[["maze"],["maze"]],
+      "1c":[["hole2","heavens"],["heavens"]],
+      "1d":[["fort"],["fort"]]
+   },
+   "Entrance":"Hzzachemeto"
+}
