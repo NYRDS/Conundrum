@@ -8,8 +8,9 @@
 "tiles":"tiles3.png",
 "water":"water4.png",
 "entrance":[1,1],
-"exit":[3,1],
+"multiexit":[[3,1],[6,1]],
 "objects"=[
-{"kind":"Sign","x":2,"y":1,"text":"DepS_Text1"}
+{"kind":"Sign","x":2,"y":1,"text":"DepS_Text1"},
+{"kind":"Sign","x":5,"y":1,"text":"DepS_Text2"}
 ]
 }

@@ -31,6 +31,7 @@
 {"kind":"Sign","x":11,"y":7,"text"="Dep1_Text2"}
 ],
 "items"=[
-{"kind":"PotionOfLiquidFlame","x":10,"y":1}
+{"kind":"PotionOfLiquidFlame","x":10,"y":1,"identified":true},
+{"kind":"IronKey","x":2,"y":12,"depth":0,"levelId":"maze"}
 ]
 }

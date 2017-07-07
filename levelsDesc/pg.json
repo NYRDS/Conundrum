@@ -1,0 +1,24 @@
+﻿{
+"width":9,
+"height":5,
+"map":[ 4, 4, 4, 4, 4, 4, 4, 4, 4,
+ 4, 1, 1, 1, 1, 1, 4, 4, 4,
+ 4, 1, 1, 1, 1, 1, 4, 1, 4,
+ 4, 1, 1, 1, 1, 1, 4, 4, 4,
+ 4, 4, 4, 4, 4, 4, 4, 4, 4
+],
+"tiles":"tiles0.png",
+"water":"water4.png",
+"entrance":[7,2],
+"exit":[3,2],
+"mobs":[
+{"kind":"Wraith","x":2,"y":1,"level":400},
+{"kind":"Wraith","x":2,"y":3,"level":400},
+{"kind":"Wraith","x":4,"y":3,"level":400},
+{"kind":"Wraith","x":4,"y":1,"level":400}
+],
+"items":[
+{"kind":"Amulet","x":1,"y":2},
+{"kind":"Amulet","x":5,"y":2}
+]
+}

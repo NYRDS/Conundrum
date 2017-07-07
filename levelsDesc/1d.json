@@ -23,5 +23,8 @@
 ],
 "mobs":[
 {"kind":"EarthElemental","level":400,"x":3,"y":10}
+],
+"items":[
+{"kind":"IronKey","levelId":"fort","depth":0,"x":3,"y":8}
 ]
 }
