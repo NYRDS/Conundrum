@@ -1,0 +1,18 @@
+﻿{
+   "defenseSkill"  :20000,
+   "attackSkill"   :20000,
+   "exp"           :0,
+   "maxLvl"        :1,
+   "dmgMin"        :20000,
+   "dmgMax"        :20000,
+   "dr"            :20000,
+   "baseSpeed"     :1,
+   "attackDelay"   :0.01,
+   "ht"            :20000,
+   "name"          :"S_Name",
+   "name_objective":"S_Name_Objective",
+   "description"   :"S_Desc",
+   "gender"        :"masculine",
+   "spriteDesc"    :"spritesDesc/S.json",
+   "walkingType"   :"NORMAL"
+}

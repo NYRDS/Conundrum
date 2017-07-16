@@ -22,7 +22,7 @@
  4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4
 ],
 "tiles":"tiles1.png",
-"water":"water4.png",
+"water":"water1.png",
 "entrance":[3,15],
 "multiexit":[[12,18],[9,15]],
 "items":[

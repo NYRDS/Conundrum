@@ -13,7 +13,7 @@
    "level": 3
   },
   "str": 18,
-  "hp": 20,
+  "hp": 10,
   "knownItems": [{
    "kind": "PotionOfHealing"
   }, {
