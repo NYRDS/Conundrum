@@ -1,24 +1,15 @@
 ﻿{
- "common": {
-  "armor": {
-   "kind": "LeatherArmor",
-   "identified": true,
-   "level": 3
-  }
+ "common":{
+  "armor":{"kind":"LeatherArmor", "identified":true, "level":3}
  },
- "WARRIOR": {
-  "weapon": {
-   "kind": "Dagger",
-   "identified": true,
-   "level": 3
-  },
-  "str": 18,
-  "hp": 10,
-  "knownItems": [{
-   "kind": "PotionOfHealing"
-  }, {
-   "kind": "PotionOfExperience"
-  }]
+ "NECROMANCER":{
+  "weapon":{"kind":"Dagger", "identified":true, "level":3},
+  "str":10,
+  "hp":10,
+  "knownItems":[
+{"kind": "PotionOfHealing"},
+{"kind": "PotionOfExperience"}
+]
 }
- }
+}
 

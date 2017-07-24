@@ -1,12 +1,15 @@
 ﻿{
-"width":3,
+"width":5,
 "height":3,
-"map":[ 4, 4, 4,
- 4, 1, 4,
- 4, 4, 4
+"map":[ 4, 4, 4, 4, 4,
+ 4, 1, 4, 4, 4,
+ 4, 4, 4, 4, 4
 ],
 "tiles":"tiles0.png",
 "water":"water4.png",
-"entrance":[2,2],
-"exit":[1,1]
+"entrance":[3,1],
+"exit":[1,1],
+"items":[
+{"kind":"Dewdrop","x":1,"y":1,"quantity":10}
+]
 }

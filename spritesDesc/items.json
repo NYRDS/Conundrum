@@ -1,26 +1,26 @@
 ﻿{ 
 "PotionOfLiquidFlame": {
-"file":"items/nahui_poshol.png",
+"file":"items/customItems.png",
 "index":0
 },
 "PotionOfExperience": {
-"file":"items/nahui_poshol.png",
+"file":"items/customItems.png",
 "index":1
 },
 "PotionOfInvisibility": {
-"file":"items/nahui_poshol.png",
+"file":"items/customItems.png",
 "index":2
 }, 
 "PotionOfLevitation": {
-"file":"items/nahui_poshol.png",
+"file":"items/customItems.png",
 "index":3
 },
 "PotionOfHealing": {
-"file":"items/nahui_poshol.png",
+"file":"items/customItems.png",
 "index":4
 }, 
 "WandOfBlink": {
-"file":"items/nahui_poshol.png",
+"file":"items/customItems.png",
 "index":5
 }
 }

@@ -18,7 +18,7 @@
 "tiles":"tiles1.png",
 "water":"water1.png",
 "entrance":[1,1],
-"exit":[2,5],
+"multiexit":[[0,0],[2,5]],
 "objects":[
 {"kind":"Sign","x":3,"y":1,"text":"Dep2_Text2"}
 ],
@@ -26,6 +26,7 @@
 {"kind":"S","x":7,"y":2}
 ],
 "items":[
-{"kind":"IronKey","levelId":"fort","depth":0,"x":5,"y":1}
+{"kind":"IronKey","levelId":"fort","depth":0,"x":5,"y":1},
+{"kind":"Ankh","x":2,"y":4}
 ]
 }
