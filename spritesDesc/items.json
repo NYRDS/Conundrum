@@ -22,5 +22,9 @@
 "WandOfBlink": {
 "file":"items/customItems.png",
 "index":5
+},
+"WandOfTelekinesis": {
+"file":"items/customItems.png",
+"index":6
 }
 }

@@ -1,0 +1,30 @@
+﻿{
+   "texture" : "Yspinner.png",
+   "width" : 60,
+   "height" : 60,
+   "idle" : {
+      "fps" : 12,
+      "looped" : true,
+      "frames" : [0, 1, 2, 3, 4, 5]
+   },
+   "run" : {
+      "fps" : 12,
+      "looped" : true,
+      "frames" : [0, 1, 2, 3, 4, 5]
+   },
+   "attack" : {
+      "fps" : 12,
+      "looped" : true,
+      "frames" : [0, 1, 2, 3, 4, 5]
+   },
+   "die" : {
+      "fps" : 12,
+      "looped" : true,
+      "frames" : [0, 1, 2, 3, 4, 5]
+   },
+   "bloodColor" : "0xFF7DFF7D"
+}
+
+
+
+

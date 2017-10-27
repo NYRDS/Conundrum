@@ -32,6 +32,6 @@
    "entrance":[18,17],
    "exit":[13,2],
    "mobs" = [
-{"kind":"Yog","x":10,"y":15}
+{"kind":"Yspinner","x":10,"y":15}
 ]
    }

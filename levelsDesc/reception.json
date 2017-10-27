@@ -33,6 +33,8 @@
    {"kind"="Sign", "x"=18, "y"=10, "text"="Dep0_Text3"},
    {"kind"="Sign", "x"=10, "y"=18, "text"="Dep0_Text4"},
    {"kind"="Sign", "x"=8, "y"=8, "text"="Dep0_Text5"},
-   {"kind"="Sign", "x"=12, "y"=12, "text"="Dep0_Text6"}
-   ]
+   {"kind"="Sign", "x"=12, "y"=12, "text"="Dep0_Text6"},
+   {"kind"="Sign", "x"=8, "y"=12, "text"="Dep0_Text7"},
+   {"kind"="Sign", "x"=12, "y"=8, "text"="Dep0_Text8"}
+]
 }

@@ -1,0 +1,30 @@
+﻿{
+   "texture" : "Y.png",
+   "width" : 40,
+   "height" : 40,
+   "idle" : {
+      "fps" : 16,
+      "looped" : true,
+      "frames" : [0, 4, 1, 5, 2, 6, 3, 7]
+   },
+   "run" : {
+      "fps" : 16,
+      "looped" : true,
+      "frames" : [0, 4, 1, 5, 2, 6, 3, 7]
+   },
+   "attack" : {
+      "fps" : 16,
+      "looped" : true,
+      "frames" : [0, 4, 1, 5, 2, 6, 3, 7]
+   },
+   "die" : {
+      "fps" : 16,
+      "looped" : true,
+      "frames" : [0, 4, 1, 5, 2, 6, 3, 7]
+   },
+   "bloodColor" : "0xFF7DFF7D"
+}
+
+
+
+
