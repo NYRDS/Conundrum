@@ -23,8 +23,8 @@
 {"kind":"WandOfTelekinesis","x":3,"y":5,"charges":1,"level":10,"maxCharges":0,"identified":true}
 ],
 "objects":[
-{"kind":"Trap","x":15,"y":5,"trapKind":"FireTrap","target":{"x":2,"y":5},"activatedByItem":falce},
-{"kind":"Trap","x":3,"y":5,"trapKind":"SummoningTrap","target":{"x":8,"y":1},"activatedByItem":falce},
+{"kind":"Trap","x":15,"y":5,"trapKind":"FireTrap","target":{"x":2,"y":5},"activatedByItem":false},
+{"kind":"Trap","x":3,"y":5,"trapKind":"SummoningTrap","target":{"x":8,"y":1},"activatedByItem":false},
 
 
 {"kind":"ConcreteBlock","x":8,"y":2,"str":10},
