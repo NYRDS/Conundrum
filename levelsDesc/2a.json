@@ -21,12 +21,12 @@
 {"kind":"Ankh","x":8,"y":7}
 ],
 "objects":[
-{"kind":"Trap","x":3,"y":2,"trapKind":"FireTrap","target":{"x":3,"y":2},"activatedByItem":falce},
-{"kind":"Trap","x":4,"y":2,"trapKind":"FireTrap","target":{"x":4,"y":2},"activatedByItem":falce},
-{"kind":"Trap","x":5,"y":2,"trapKind":"FireTrap","target":{"x":5,"y":2},"activatedByItem":falce},
-{"kind":"Trap","x":7,"y":4,"trapKind":"FireTrap","target":{"x":7,"y":4},"activatedByItem":falce},
-{"kind":"Trap","x":7,"y":5,"trapKind":"FireTrap","target":{"x":7,"y":5},"activatedByItem":falce},
-{"kind":"Trap","x":7,"y":6,"trapKind":"FireTrap","target":{"x":7,"y":6},"activatedByItem":falce},
+{"kind":"Trap","x":3,"y":2,"trapKind":"FireTrap","target":{"x":3,"y":2},"activatedByItem":false},
+{"kind":"Trap","x":4,"y":2,"trapKind":"FireTrap","target":{"x":4,"y":2},"activatedByItem":false},
+{"kind":"Trap","x":5,"y":2,"trapKind":"FireTrap","target":{"x":5,"y":2},"activatedByItem":false},
+{"kind":"Trap","x":7,"y":4,"trapKind":"FireTrap","target":{"x":7,"y":4},"activatedByItem":false},
+{"kind":"Trap","x":7,"y":5,"trapKind":"FireTrap","target":{"x":7,"y":5},"activatedByItem":false},
+{"kind":"Trap","x":7,"y":6,"trapKind":"FireTrap","target":{"x":7,"y":6},"activatedByItem":false},
 
 {"kind":"ConcreteBlock","x":1,"y":1,"str":10},
 {"kind":"ConcreteBlock","x":1,"y":4,"str":10},
