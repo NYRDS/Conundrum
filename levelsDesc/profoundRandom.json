@@ -1,0 +1,14 @@
+﻿{
+"width":32,
+"height":32,
+"tiles":"tiles2.png",
+"water":"water4.png",
+"mobs":[
+{"kind":"Tengu"}
+],
+"items":[
+{"kind":"DwarfToken"}
+],
+"nMobs":1,
+"nTraps":0
+}

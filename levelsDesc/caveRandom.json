@@ -1,0 +1,14 @@
+﻿{
+"width":32,
+"height":32,
+"tiles":"tiles2.png",
+"water":"water2.png",
+"mobs":[
+{"kind":"DM300"}
+],
+"items":[
+{"kind":"DwarfToken"}
+],
+"nMobs":1,
+"nTraps":0
+}

@@ -1,0 +1,30 @@
+﻿{
+   "texture" : "antonyPROJECTOR.png",
+   "width" : 112,
+   "height" : 176,
+   "idle" : {
+      "fps" : 6,
+      "looped" : true,
+      "frames" : [4,4,4,4,5,5,5,5,4,4,4,4,5,5,5,5,4,4,4,4,5,5,5,5,4,4,4,4,5,5,5,5,4,4,4,4,5,5,5,5,4,4,4,4,5,5,5,5,4,4,4,4,3,3,2,1,0,0,1,2,3,3]
+   },
+   "run" : {
+      "fps" : 12,
+      "looped" : true,
+      "frames" : [0, 1]
+   },
+   "attack" : {
+      "fps" : 12,
+      "looped" : true,
+      "frames" : [0, 1]
+   },
+   "die" : {
+      "fps" : 12,
+      "looped" : true,
+      "frames" : [0, 1]
+   },
+   "bloodColor" : "0xFF7DFF7D"
+}
+
+
+
+
