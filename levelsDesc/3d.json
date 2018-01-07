@@ -17,8 +17,7 @@
  "width":10,
 "items":
 [
-{"kind":"IronKey","x":8,"y":8,"depth":0,"levelId":"fort"},
-{"kind":"Ankh","x":8,"y":7}
+{"kind":"IronKey","x":8,"y":8,"depth":0,"levelId":"fort"}
 ],
 "mobs":
 [
@@ -37,6 +36,14 @@
 },
 {"kind":"Trap","x":6,"y":1,"trapKind":"FireTrap","uses":1,"target":{ "x":8,"y":1}},
 {"kind":"Trap","x":6,"y":8,"trapKind":"FireTrap","uses":1,"target":{ "x":8,"y":8}},
-{"kind":"Sign","x":1,"y":2,"text":"Dep3_Text5"}
+{
+"kind":"Trap",
+"x":8,
+"y":6,
+"uses":9999,
+"trapKind":"scriptFile",
+"script":"scripts/traps/pury",
+"data":"IronKey"
+}
 ]
 }

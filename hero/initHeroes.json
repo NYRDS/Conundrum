@@ -7,8 +7,11 @@
   "str":10,
   "hp":5,
   "knownItems":[
-{"kind": "PotionOfHealing"},
-{"kind": "PotionOfExperience"}
+{"kind": "PotionOfExperience"},
+{"kind": "PotionOfLiquidFlame"},
+{"kind": "PotionOfLevitation"},
+{"kind": "PotionOfFrost"},
+{"kind": "PotionOfInvisibility"}
 ]
 }
 }

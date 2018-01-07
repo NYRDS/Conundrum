@@ -1,16 +1,12 @@
 ﻿{
 "width":17,
-"height":11,
+"height":7,
 "map":[ 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4,
  4, 4, 4, 4, 4, 4, 4, 4, 1, 4, 4, 4, 4, 4, 4,14, 4,
  4, 4, 4, 4, 4, 4, 4, 4,14, 4, 4, 4, 4, 4, 4, 4, 4,
- 4, 4, 4, 4, 4, 4, 4, 1, 1, 1,16, 4, 4, 4, 4, 4, 4,
- 4, 4, 4, 4, 4, 4, 1, 1, 1, 1, 1, 4, 4, 4, 4, 4, 4,
+ 4, 4, 4, 4, 4, 4, 4, 1, 1, 1, 4, 4, 4, 4, 4, 4, 4,
+ 4, 4, 4, 4, 4, 16, 1, 1, 1, 1, 1, 4, 4, 4, 4, 4, 4,
  4, 7,13,24, 1, 1, 1, 1, 1, 1, 1, 1, 5, 0, 1,24, 4,
- 4, 4, 4, 4, 4,16, 1, 1, 1, 1, 1, 4, 4, 4, 4, 4, 4,
- 4, 4, 4, 4, 4, 4, 4, 1, 1, 1,16, 4, 4, 4, 4, 4, 4,
- 4, 4, 4, 4, 4, 4, 4, 4,14, 4, 4, 4, 4, 4, 4, 4, 4,
- 4, 4, 4, 4, 4, 4, 4, 4, 1, 4, 4, 4, 4, 4, 4, 4, 4,
  4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4
 ],
 "tiles":"tiles1.png",
@@ -19,14 +15,11 @@
 "multiexit":[[0,0],[1,5]],
 "items":[
 {"kind":"IronKey","x":8,"y":2,"depth":0,"levelId":"sokoban"},
-{"kind":"Ankh","x":8,"y":8},
 {"kind":"WandOfTelekinesis","x":3,"y":5,"charges":1,"level":10,"maxCharges":0,"identified":true}
 ],
 "objects":[
-{"kind":"Trap","x":15,"y":5,"trapKind":"FireTrap","target":{"x":2,"y":5},"activatedByItem":false},
-{"kind":"Trap","x":3,"y":5,"trapKind":"SummoningTrap","target":{"x":8,"y":1},"activatedByItem":false},
-
-
+{"kind":"Trap","x":15,"y":5,"trapKind":"FireTrap","target":{"x":2,"y":5},"activatedByItem":falce},
+{"kind":"Trap","x":3,"y":5,"trapKind":"SummoningTrap","target":{"x":8,"y":1},"activatedByItem":falce},
 {"kind":"ConcreteBlock","x":8,"y":2,"str":10},
 {"kind":"ConcreteBlock","x":9,"y":3,"str":10},
 {"kind":"ConcreteBlock","x":6,"y":4,"str":10},
@@ -35,14 +28,7 @@
 {"kind":"ConcreteBlock","x":9,"y":4,"str":10},
 {"kind":"ConcreteBlock","x":7,"y":5,"str":10},
 {"kind":"ConcreteBlock","x":9,"y":5,"str":10},
-{"kind":"ConcreteBlock","x":6,"y":6,"str":10},
-{"kind":"ConcreteBlock","x":7,"y":6,"str":10},
-{"kind":"ConcreteBlock","x":8,"y":6,"str":10},
-{"kind":"ConcreteBlock","x":9,"y":6,"str":10},
-{"kind":"ConcreteBlock","x":9,"y":7,"str":10},
-{"kind":"ConcreteBlock","x":8,"y":8,"str":10},
 {"kind":"Barrel","x":14,"y":5},
-{"kind":"Sign","x":4,"y":5,"text":"Dep3_Text4"},
 {"kind":"PortalGateSender","x":15,"y":1, "uses":1,
       "target":
       {
@@ -50,6 +36,15 @@
         "x":8,
         "y":5
       }
+},
+{
+"kind":"Trap",
+"x":1,
+"y":5,
+"uses":9999,
+"trapKind":"scriptFile",
+"script":"scripts/traps/pury",
+"data":"IronKey"
 }
 ]
 }

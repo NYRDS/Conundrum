@@ -17,8 +17,7 @@
 "entrance":[1,8],
 "multiexit":[[0,0],[8,1]],
 "items":[
-{"kind":"IronKey","x":7,"y":5,"depth":0,"levelId":"sokoban"},
-{"kind":"Ankh","x":8,"y":7}
+{"kind":"IronKey","x":8,"y":7,"depth":0,"levelId":"sokoban"}
 ],
 "objects":[
 {"kind":"Trap","x":3,"y":2,"trapKind":"FireTrap","target":{"x":3,"y":2},"activatedByItem":false},
@@ -27,7 +26,6 @@
 {"kind":"Trap","x":7,"y":4,"trapKind":"FireTrap","target":{"x":7,"y":4},"activatedByItem":false},
 {"kind":"Trap","x":7,"y":5,"trapKind":"FireTrap","target":{"x":7,"y":5},"activatedByItem":false},
 {"kind":"Trap","x":7,"y":6,"trapKind":"FireTrap","target":{"x":7,"y":6},"activatedByItem":false},
-
 {"kind":"ConcreteBlock","x":1,"y":1,"str":10},
 {"kind":"ConcreteBlock","x":1,"y":4,"str":10},
 {"kind":"ConcreteBlock","x":1,"y":6,"str":10},
@@ -61,6 +59,14 @@
 {"kind":"ConcreteBlock","x":8,"y":5,"str":10},
 {"kind":"ConcreteBlock","x":8,"y":6,"str":10},
 {"kind":"ConcreteBlock","x":8,"y":8,"str":10},
-{"kind":"Sign","x":1,"y":7,"text":"Dep2_Text1"}
+{
+"kind":"Trap",
+"x":8,
+"y":1,
+"uses":9999,
+"trapKind":"scriptFile",
+"script":"scripts/traps/pury",
+"data":"IronKey"
+}
 ]
 }
