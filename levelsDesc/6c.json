@@ -1,5 +1,6 @@
 ﻿{ "entrance":[18, 18],
  "height":20,
+ "width":20,
  "map":[4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4,
  4,16,16,16,16,16,16,16,16,16,16,16,16,16,16, 0, 0, 4, 4, 4,
  4, 1, 4, 0, 4, 0, 4, 0, 4, 0, 4, 0, 4, 0, 4, 0, 4,14, 4, 4,
@@ -26,7 +27,7 @@
  "items":[
 {"kind":"IronKey","x":3,"y":17,"levelId":"heavens","depth":0},
 {"kind":"PotionOfLevitation","x":17,"y":2},
-{"kind":"WandOfBlink","x":17,"y":18,"charges":50,"maxCharges":0,"identified":"true"},
+{"kind":"WandOfBlink","x":17,"y":18,"charges":50,"maxCharges":0,"identified":"true"}
 ],
  "objects":[
 {
@@ -38,6 +39,5 @@
 "script":"scripts/traps/pury",
 "data":"IronKey"
 }
-],
- "width":20
+]
 }
