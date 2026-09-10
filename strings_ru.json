@@ -1,130 +1,130 @@
-﻿["Mod_Name","Conundrum"],
-["Mod_Description","История одного короля."],
-["Mod_Author","Пьер Шрёдингер"],
-["Mod_Link","https://vk.com/conundrum_rpd"],
-["Welcome_Text","?"],
-["StartScene_DifficultySelect","Выберите сложность:"],
-["StartScene_DifficultyEasy","Сложно"],
-["StartScene_DifficultyNormalWithSaves","Сложно"],
-["StartScene_DifficultyNormal","Невозможно"],
-["StartScene_DifficultyExpert","Невозможно"],
-["HeroClass_NecromancerPerks","","","","",""],
-["Yog_Info2","Прости..."],
-["Yog_Name","Энтони"],
-["Yog_Desc","Ты слышишь только приглушённый голос..."],
-["WndGame_Ranking","Твои смерти"],
-["WndGame_Start","Начать заново"],
-["WndGame_menu","Меню"],
-["WndGame_Exit","Выход"],
-["WndGame_Return","Продолжить"],
-["WndHero_Stats","Статы"],
-["WndHero_Buffs","Бафы"],
-["WndHero_Exp","ЧСВ"],
-["Necromancy_SoulsCountLabel","Уважение"],
-["WndHero_Health","Хп"],
-["WndHero_Depth","Дошёл до"],
-["WndHero_StaTitle","Король"],
-["WndSaveSlotSelect_dontLike","Не нравится реклама? Мне тоже."],
-["HeroClass_Necromancer","Король"],
-["Hero_Leave","Назад пути нет"],
-["Hero_YouNowHave","Да это же %s"],
-["Hero_NoticedSmth","Что это здесь делает?"],
-["Level_HiddenPlate","Кажется, что-то пошло не так..."],
-["Mods_CreatedBy","Автор этого шедевра:"],
-["DonateButton_pleaseDonate","Есть лишние деньги?"],
-["Dep0_Text1","Сокобаны"],
-["Dep0_Text2","Лабиринты"],
-["Dep0_Text3","Поднебесье"],
-["Dep0_Text4","Форты"],
-["Dep0_Text5","Чаще сохраняешься —\n меньше теряешь."],
-["Dep0_Text6","Проходы к уровням в конце ковровых дорожек."],
-["Dep0_Text7","W — пропуск хода. \n S — поиск. \n I — информация."],
-["Dep0_Text8","На данный момент в моде: \n 3 сокобана \n 6 лабиринтов \n 7 поднебесий \n 3 форта"],
-["DepS_Text1","Уровень 1"],
-["DepS_Text2","Уровень 2"],
-["DepS_Text3","Уровень 3"],
-["DepS_Text4","Уровень 4"],
-["DepS_Text5","Уровень 5"],
-["DepS_Text6","Уровень 6"],
-["DepS_Text7","Уровень 7"],
-["DepS_Text8","Уровень 8"],
-["DepS_Text9","Уровень 9"],
-["DepS_Text10","Уровень 10"],
-["Dep3_Text1", "Это выход, прикинь. Ключ бы ещё достать..."],
-["IntroScene_Txt","Кажется, ты играешь первый раз... Я бы не советовал тебе браться за моды сейчас. Изучи игровую механику в оригинальной игре и возвращайся."],
-["AmuletScene_Txt","Глупец... \n Это всего лишь медальон. Он не сделает тебя богом... но ЧСВ повысит. \n \n Считай, что ты проиграл."],
-["AmuletScene_Exit","Прыгнуть в пропасть головой вниз"],
-["AmuletScene_Stay","Прыгнуть в пропасть головой вверх"],
-["Resurrect_Message","Разделить душу?"],
-["WndResurrect_Yes","Да"],
-["WndResurrect_No","Нет"],
-["Item_ACDrop","Выкинуть"],
-["Item_ACThrow","Кинуть"],
-["EquipableItem_ACEquip","Надеть"],
-["EquipableItem_ACUnequip","Снять"],
-["ArmorKit_ACAplly","Применить"],
-["LloidsBeacon_ACSet","Установить"],
-["LloidsBeacon_ACReturn","Вернуться"],
-["Item_DirThrow","Куда кидать то?"],
-["Amulet_Name","Медальон"],
-["Amulet_ACEnd","Выбрать"],
-["Pickaxe_ACMine","Достать"],
-["Amulet_Info","Этот старый медальон излучает магическую энергию. Странно, не правда ли?"],
-["Ankh_Name","Осколок души"],
-["Ankh_Info","В момент опасности позволит тебе разделить свою душу на части."],
-["PotionOfLiquidFlame_Name","Зелье Огня"],
-["PotionOfLiquidFlame_Info","Огонь сотни баттхёртов в одном флаконе."],
-["PotionOfLevitation_Name","Зелье Вездехода"],
-["PotionOfLevitation_Info","Позволяет некоторое время ходить там, куда обычно падают."],
-["PotionOfExperience_Name","Зелье ЧСВ"],
-["PotionOfExperience_Info","Моментально повышает ваше ЧСВ. Не злоупотреблять!"],
-["PotionOfLevitation_Apply","Не смотри вниз!"],
-["AirElemental_Name","Баланс"],
-["AirElemental_Name_Objective","баланс"],
-["AirElemental_Desc","Хоть где-то он есть."],
-["Wand_ACZap","Воспользоваться"],
-["Wand_Damage",""],
-["Wand_Weapon",""],
-["Wand_Fizzles","Энергия иссякла"],
-["Wand_SelfTarget","Ничего не произошло"],
-["Wand_Prompt","Выбери направление"],
-["WandOfBlink_Name","Скачок"],
-["WandOfBlink_Info","Двигайся быстрее."],
-["WandOfTelekinesis_Name","Рука"],
-["WandOfTelekinesis_Info","Будь сильнее"],
-["W_Name","Призрак"],
-["W_Desc","Этот призрак сливается с окружающей темнотой, и вы видите только его глаза."],
-["W_Name_Objective","призрака и сейчас огребёшь"],
-["S_Name","Доспех"],
-["S_Desc","Внутри никого нет, однако доспех поддерживает вертикальное положение и, кажется, готов к атаке."],
-["S_Name_Objective","доспех и сейчас огребёшь"],
-["Level_TileBarricade","Пустые полки"],
-["Level_TileDescBarricade","Такие полки неплохо горят."],
-["Level_TileEntrance","Яма"],
-["Level_TileDescEntrance","Похоже на какой-то тоннель."],
-["Dagger_Name","Нож"],
-["Dagger_Info","Видимо тот самый нож, чуть было не послуживший причиной твоей смерти. Им можно кого-нибудь пырнуть. Но стоит ли?"],
-["LeatherArmor_Name","Поношенное одеяние короля"],
-["LeatherArmor_Desc","За время пребывания в подземелье мантия испачкалась и износилась. Подойдёт для маскировки, но подданные не одобрят."],
-["Sign_Name","Книга"],
-["Dart_Name","Пустая колба"],
-["Dart_Info","Эту колбу можно наполнить зельем. Можно и не наполнять."],
-["MissileWeapon_Info1","Думаю, несладко придётся тому, в кого это прилетит."],
-["StartScene_Really","Точно хочешь начать новую игру? Я сотру старый прогресс."],
-["GameScene_NightMode","Может поспишь лучше? Утро вечера мудренее."],
-["WndRanking_StaAnkhs","Уровней пройдено:"],
-["Barrel_Name","Бревно"],
-["Barrel_Desc","Брёвна значительно легче бетонных блоков. А ещё превосходно горят!"],
-["Barrel_Pumpkin_Name","Бревно"],
-["Barrel_Pumpkin_Desc","Брёвна значительно легче бетонных блоков. А ещё превосходно горят!"],
-["PortalGate_Desc","Что-то подсказывает вам, что в этом месте находится портал."],
-["PortalGate_Desc_Activated","Что-то подсказывает вам, что в этом месте находится портал."],
-["WndPortal_Info","Произвести телепортацию?"],
-["PlagueDoctorNPC_Name","Энтони"],
-["PlagueDoctorNPC_Desc","Книжник из института чародеев. Ваш старый приятель. Большая удача встретить его в этом месте после всего, что случилось. Хотя постойте, что это за странные магические узоры на полу под ним?"],
-["PlagueDoctorNPC_Quest_Reminder","Что говоришь? Королевство само собой править не будет? Конечно, тебе нужно возвращаться."],
-["PlagueDoctorNPC_Quest_Start_Male","Кто здесь? Ох... Здравствуй, друг. Разве тебя не... \n \n Слушай, тебе нужно покинуть это место как можно скорее. Видишь ли, на самом деле, этот этаж — фальшивка. Всё обстоит иначе, а в центре так и вовсе несусветное искажение. Уходи, пока есть время."],
-["illusionName","Иллюзия"],
-["illusionDesc","Что-то здесь не так..."],
-["AboutScene_Txt_Intro","Conundrum является модом Remixed Pixel Dungeon — форка Pixel Dungeon от Watabou."],
+["Mod_Name","Conundrum"]
+["Mod_Description","История одного короля."]
+["Mod_Author","Пьер Шрёдингер"]
+["Mod_Link","https://vk.com/conundrum_rpd"]
+["Welcome_Text","?"]
+["StartScene_DifficultySelect","Выберите сложность:"]
+["StartScene_DifficultyEasy","Сложно"]
+["StartScene_DifficultyNormalWithSaves","Сложно"]
+["StartScene_DifficultyNormal","Невозможно"]
+["StartScene_DifficultyExpert","Невозможно"]
+["HeroClass_NecromancerPerks","","","","",""]
+["Yog_Info2","Прости..."]
+["Yog_Name","Энтони"]
+["Yog_Desc","Ты слышишь только приглушённый голос..."]
+["WndGame_Ranking","Твои смерти"]
+["WndGame_Start","Начать заново"]
+["WndGame_menu","Меню"]
+["WndGame_Exit","Выход"]
+["WndGame_Return","Продолжить"]
+["WndHero_Stats","Статы"]
+["WndHero_Buffs","Бафы"]
+["WndHero_Exp","ЧСВ"]
+["Necromancy_SoulsCountLabel","Уважение"]
+["WndHero_Health","Хп"]
+["WndHero_Depth","Дошёл до"]
+["WndHero_StaTitle","Король"]
+["WndSaveSlotSelect_dontLike","Не нравится реклама? Мне тоже."]
+["HeroClass_Necromancer","Король"]
+["Hero_Leave","Назад пути нет"]
+["Hero_YouNowHave","Да это же %s"]
+["Hero_NoticedSmth","Что это здесь делает?"]
+["Level_HiddenPlate","Кажется, что-то пошло не так..."]
+["Mods_CreatedBy","Автор этого шедевра:"]
+["DonateButton_pleaseDonate","Есть лишние деньги?"]
+["Dep0_Text1","Сокобаны"]
+["Dep0_Text2","Лабиринты"]
+["Dep0_Text3","Поднебесье"]
+["Dep0_Text4","Форты"]
+["Dep0_Text5","Чаще сохраняешься —\n меньше теряешь."]
+["Dep0_Text6","Проходы к уровням в конце ковровых дорожек."]
+["Dep0_Text7","W — пропуск хода. \n S — поиск. \n I — информация."]
+["Dep0_Text8","На данный момент в моде: \n 3 сокобана \n 6 лабиринтов \n 7 поднебесий \n 3 форта"]
+["DepS_Text1","Уровень 1"]
+["DepS_Text2","Уровень 2"]
+["DepS_Text3","Уровень 3"]
+["DepS_Text4","Уровень 4"]
+["DepS_Text5","Уровень 5"]
+["DepS_Text6","Уровень 6"]
+["DepS_Text7","Уровень 7"]
+["DepS_Text8","Уровень 8"]
+["DepS_Text9","Уровень 9"]
+["DepS_Text10","Уровень 10"]
+["Dep3_Text1", "Это выход, прикинь. Ключ бы ещё достать..."]
+["IntroScene_Txt","Кажется, ты играешь первый раз... Я бы не советовал тебе браться за моды сейчас. Изучи игровую механику в оригинальной игре и возвращайся."]
+["AmuletScene_Txt","Глупец... \n Это всего лишь медальон. Он не сделает тебя богом... но ЧСВ повысит. \n \n Считай, что ты проиграл."]
+["AmuletScene_Exit","Прыгнуть в пропасть головой вниз"]
+["AmuletScene_Stay","Прыгнуть в пропасть головой вверх"]
+["Resurrect_Message","Разделить душу?"]
+["WndResurrect_Yes","Да"]
+["WndResurrect_No","Нет"]
+["Item_ACDrop","Выкинуть"]
+["Item_ACThrow","Кинуть"]
+["EquipableItem_ACEquip","Надеть"]
+["EquipableItem_ACUnequip","Снять"]
+["ArmorKit_ACAplly","Применить"]
+["LloidsBeacon_ACSet","Установить"]
+["LloidsBeacon_ACReturn","Вернуться"]
+["Item_DirThrow","Куда кидать то?"]
+["Amulet_Name","Медальон"]
+["Amulet_ACEnd","Выбрать"]
+["Pickaxe_ACMine","Достать"]
+["Amulet_Info","Этот старый медальон излучает магическую энергию. Странно, не правда ли?"]
+["Ankh_Name","Осколок души"]
+["Ankh_Info","В момент опасности позволит тебе разделить свою душу на части."]
+["PotionOfLiquidFlame_Name","Зелье Огня"]
+["PotionOfLiquidFlame_Info","Огонь сотни баттхёртов в одном флаконе."]
+["PotionOfLevitation_Name","Зелье Вездехода"]
+["PotionOfLevitation_Info","Позволяет некоторое время ходить там, куда обычно падают."]
+["PotionOfExperience_Name","Зелье ЧСВ"]
+["PotionOfExperience_Info","Моментально повышает ваше ЧСВ. Не злоупотреблять!"]
+["PotionOfLevitation_Apply","Не смотри вниз!"]
+["AirElemental_Name","Баланс"]
+["AirElemental_Name_Objective","баланс"]
+["AirElemental_Desc","Хоть где-то он есть."]
+["Wand_ACZap","Воспользоваться"]
+["Wand_Damage",""]
+["Wand_Weapon",""]
+["Wand_Fizzles","Энергия иссякла"]
+["Wand_SelfTarget","Ничего не произошло"]
+["Wand_Prompt","Выбери направление"]
+["WandOfBlink_Name","Скачок"]
+["WandOfBlink_Info","Двигайся быстрее."]
+["WandOfTelekinesis_Name","Рука"]
+["WandOfTelekinesis_Info","Будь сильнее"]
+["W_Name","Призрак"]
+["W_Desc","Этот призрак сливается с окружающей темнотой, и вы видите только его глаза."]
+["W_Name_Objective","призрака и сейчас огребёшь"]
+["S_Name","Доспех"]
+["S_Desc","Внутри никого нет, однако доспех поддерживает вертикальное положение и, кажется, готов к атаке."]
+["S_Name_Objective","доспех и сейчас огребёшь"]
+["Level_TileBarricade","Пустые полки"]
+["Level_TileDescBarricade","Такие полки неплохо горят."]
+["Level_TileEntrance","Яма"]
+["Level_TileDescEntrance","Похоже на какой-то тоннель."]
+["Dagger_Name","Нож"]
+["Dagger_Info","Видимо тот самый нож, чуть было не послуживший причиной твоей смерти. Им можно кого-нибудь пырнуть. Но стоит ли?"]
+["LeatherArmor_Name","Поношенное одеяние короля"]
+["LeatherArmor_Desc","За время пребывания в подземелье мантия испачкалась и износилась. Подойдёт для маскировки, но подданные не одобрят."]
+["Sign_Name","Книга"]
+["Dart_Name","Пустая колба"]
+["Dart_Info","Эту колбу можно наполнить зельем. Можно и не наполнять."]
+["MissileWeapon_Info1","Думаю, несладко придётся тому, в кого это прилетит."]
+["StartScene_Really","Точно хочешь начать новую игру? Я сотру старый прогресс."]
+["GameScene_NightMode","Может поспишь лучше? Утро вечера мудренее."]
+["WndRanking_StaAnkhs","Уровней пройдено:"]
+["Barrel_Name","Бревно"]
+["Barrel_Desc","Брёвна значительно легче бетонных блоков. А ещё превосходно горят!"]
+["Barrel_Pumpkin_Name","Бревно"]
+["Barrel_Pumpkin_Desc","Брёвна значительно легче бетонных блоков. А ещё превосходно горят!"]
+["PortalGate_Desc","Что-то подсказывает вам, что в этом месте находится портал."]
+["PortalGate_Desc_Activated","Что-то подсказывает вам, что в этом месте находится портал."]
+["WndPortal_Info","Произвести телепортацию?"]
+["PlagueDoctorNPC_Name","Энтони"]
+["PlagueDoctorNPC_Desc","Книжник из института чародеев. Ваш старый приятель. Большая удача встретить его в этом месте после всего, что случилось. Хотя постойте, что это за странные магические узоры на полу под ним?"]
+["PlagueDoctorNPC_Quest_Reminder","Что говоришь? Королевство само собой править не будет? Конечно, тебе нужно возвращаться."]
+["PlagueDoctorNPC_Quest_Start_Male","Кто здесь? Ох... Здравствуй, друг. Разве тебя не... \n \n Слушай, тебе нужно покинуть это место как можно скорее. Видишь ли, на самом деле, этот этаж — фальшивка. Всё обстоит иначе, а в центре так и вовсе несусветное искажение. Уходи, пока есть время."]
+["illusionName","Иллюзия"]
+["illusionDesc","Что-то здесь не так..."]
+["AboutScene_Txt_Intro","Conundrum является модом Remixed Pixel Dungeon — форка Pixel Dungeon от Watabou."]
 ["AboutScene_Music","Музыка: DrBlacker,"]

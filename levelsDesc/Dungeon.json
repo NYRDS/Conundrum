@@ -1,4 +1,4 @@
-﻿{
+{
 "Levels":{
 "0":{"kind":"SewerLevel","depth":0,"size":[0,0]},
 "profound1":{"kind":"RandomLevel","depth":30,"size":[0,0],"file":"levelsDesc/profoundRandom.json","isSafe":true },
